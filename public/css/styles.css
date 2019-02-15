@@ -1,6 +1,7 @@
 
 body {
   background-color: #E8ECEF;
+  font-family: 'Raleway', sans-serif;
 }
 
 .centered {
@@ -10,7 +11,13 @@ body {
 
 .secret-text {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.3rem;
   color: #fff;
   background-color: #000;
+}
+
+.myStyle{
+  font-family: 'Righteous', cursive;
+  color: #E30B5C;
+  font-size: 3rem;
 }
